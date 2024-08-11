@@ -1,8 +1,8 @@
 {
   "name": "protfolio",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "",
+  "private": true,
+  "homepage": "https://msabrin.github.io/part1.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
