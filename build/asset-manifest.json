@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/part1.git/static/css/main.d0fe5b20.css",
+    "main.js": "/part1.git/static/js/main.e96369cc.js",
+    "static/media/profile-2.png": "/part1.git/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/profile-1.png": "/part1.git/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/profile.png": "/part1.git/static/media/profile.091885495a939092ba7c.png",
+    "static/media/bg.png": "/part1.git/static/media/bg.b24b3bf56426867d231f.png",
+    "static/media/profile-3.png": "/part1.git/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/part1.git/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/part1.git/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/part1.git/index.html",
+    "main.d0fe5b20.css.map": "/part1.git/static/css/main.d0fe5b20.css.map",
+    "main.e96369cc.js.map": "/part1.git/static/js/main.e96369cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0fe5b20.css",
+    "static/js/main.e96369cc.js"
+  ]
+}
